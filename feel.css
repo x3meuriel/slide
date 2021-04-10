@@ -1,0 +1,27 @@
+
+
+.first{
+    position: relative;
+    min-height: 500px;
+    width: 100%;
+}
+.mx-auto-1{
+    margin: 50px auto;
+    text-transform: capitalize;
+    padding: 40px;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+    /* color: white !important; */
+    
+    box-shadow: 0px 3px 4px #eee;
+    border-radius: 10px;
+  }
+
+  .name{
+      color: #172b4d;
+  }
+
+ul{
+    list-style: none;
+}
